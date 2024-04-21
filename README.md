@@ -1,36 +1,40 @@
-# Django-Ecommerce
+# Helanka Ecommerce Website Powered With  Django
 
-Ecommerce website built with Django 2.2.3, Python 3.7.3, and AWS
+Ecommerce website built with Django 2.2.3, Python 3.7.3
 
-![image](https://user-images.githubusercontent.com/29988949/65267147-499fc580-dac9-11e9-90e8-eccbc93c7c3a.png)
+`Home Page`
+![Home Page](https://github.com/randikabanura/uom_e-commerce/assets/125739472/a31167e7-291f-42b0-9b2e-d048e6b37097)
 
-`Product Slide`
+`Featured Products Page`
+![Featured Products](https://github.com/randikabanura/uom_e-commerce/assets/125739472/762eb815-9a2a-46d3-be86-4795a45d4eb6)
 
-![image](https://user-images.githubusercontent.com/29988949/65999313-ff67fe00-e451-11e9-9ed9-fc7bce704f17.png)
+`More Products Page`
+![More Products Page](https://github.com/randikabanura/uom_e-commerce/assets/125739472/7b866a79-4e4a-4ef1-86b1-ba28b58fb1ca)
 
-`Shop Page`
-![image](https://user-images.githubusercontent.com/29988949/66098968-923f9000-e559-11e9-8691-cd5c2b181ca1.png)
+`Related Products Page`
+![Related Products Page](https://github.com/randikabanura/uom_e-commerce/assets/125739472/d03add51-b2e1-4e15-a16b-4dbd809dfdfd)
 
-`Product Detail Page`
-![image](https://user-images.githubusercontent.com/29988949/66291084-bff84200-e895-11e9-8d53-3aa23b29dbae.png)
+`Product Details Page`
+![Product Details Page](https://github.com/randikabanura/uom_e-commerce/assets/125739472/cfca3113-7b78-4385-9340-647003be563f)
 
-`Cart Page`
-![image](https://user-images.githubusercontent.com/29988949/66291144-f0d87700-e895-11e9-8545-b8f93f799063.png)
+`Shopping Cart Page`
+![shopping cart](https://github.com/randikabanura/uom_e-commerce/assets/125739472/d842267c-4809-4d6a-a3fd-0890964e0c36)
 
-`BillingAddress Page`
-![image](https://user-images.githubusercontent.com/29988949/66291542-013d2180-e897-11e9-8ea9-40afcb90cee2.png)
+`Checkout Page`
+![checkout page](https://github.com/randikabanura/uom_e-commerce/assets/125739472/dcb45bbc-fc1c-45e6-8628-e526694631d5)
 
-`Stripe Payment Page`
-![image](https://user-images.githubusercontent.com/29988949/66291610-29c51b80-e897-11e9-8b47-20de35d6c1d0.png)
+`Payment Form`
+![Payment Form](https://github.com/randikabanura/uom_e-commerce/assets/125739472/2c3fad8f-b79e-40fe-a72e-ece25389584d)
 
-`Order Success Page`
-![image](https://user-images.githubusercontent.com/29988949/66291657-3e091880-e897-11e9-830b-6cf44e72a995.png)
+`Admin User Dashboard Of Helanka Ecommerce Site`
+![admin dashboard of ecommerce site](https://github.com/randikabanura/uom_e-commerce/assets/125739472/ebaca7ed-7423-4076-a8df-c3fe894c3414)
 
 # Installation
 
-`git clone https://github.com/zinmyoswe/Django-Ecommerce.git`
+`git clone https://github.com/randikabanura/uom_e-commerce.git
+.git`
 
-`cd Django-Ecommerce`
+`cd uom_e-commerce`
 
 `pip install virtualenv`
 
@@ -65,18 +69,4 @@ pip install Pillow
 
 `python manage.py runserver`
 
-# For Admin Login
-
-```python
-python manage.py createsuperuser
-Username : admin
-Password : 12345678
-```
-# Demo
-
-http://djangoecommerce.pythonanywhere.com
-
-# HTML Template
-
-https://colorlib.com/etc/fashe/index.html
 
